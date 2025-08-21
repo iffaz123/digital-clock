@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732633093 source:c:\users\naadi\onedrive\documents\s d 1  console base\digita lclock\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
